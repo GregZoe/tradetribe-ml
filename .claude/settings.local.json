@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/macbook/Desktop/**)",
+      "Read(/Users/macbook/Desktop/TradeTribe/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
